@@ -1,4 +1,4 @@
-Для работы так же потребуется файл: (opencv_world400.dll)[https://drive.google.com/open?id=12_omTTTL_pFmhwkaTPWZ9x-hsMFvtGNR]. Его надо положить в ту же директорию, где лежит .exe
+Для работы так же потребуется файл: [opencv_world400.dll](https://drive.google.com/open?id=12_omTTTL_pFmhwkaTPWZ9x-hsMFvtGNR). Его надо положить в ту же директорию, где лежит .exe
 В папку с файлами загружаем фотографии .jpg (не меньше 2х)
 Пример запуска утилиты: в командной строке пишем `.\dlibFace.exe .\1.jpg .\2.jpg`
 Запускать можно с несколькими фотографиями
