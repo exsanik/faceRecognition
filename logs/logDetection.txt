@@ -1,0 +1,114 @@
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+OpenCV(4.0.0) c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+OpenCV(4.0.0) C:\build\master_winpack-build-win64-vc14\opencv\modules\core\src\matrix.cpp:466: error: (-215:Assertion failed) 0 <= roi.x && 0 <= roi.width && roi.x + roi.width <= m.cols && 0 <= roi.y && 0 <= roi.height && roi.y + roi.height <= m.rows in function 'cv::Mat::Mat'
+
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
+Can not open caption. Device id:1
+or can not open:
+Can not open caption. Device id:0
